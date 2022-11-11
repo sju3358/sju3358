@@ -14,4 +14,4 @@
 
 
 
-[![gitblog](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]("https://sju3358.github.io/")
+![![gitblog](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)]("https://sju3358.github.io/")
