@@ -2,6 +2,6 @@
 
 
 
-🌱 I’m currently learning
-  Spring
-  NoSQL DB
+🌱 I’m currently learning  
+  Spring  
+  NoSQL DB  
