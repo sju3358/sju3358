@@ -3,6 +3,8 @@
 ### I’m currently learning  
   - Spring  
   - NoSQL DB  
+  - Algorithm
+  - Computer Science
 
 <br/>
 <br/>
