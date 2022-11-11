@@ -12,15 +12,17 @@
 <br/>
 <br/>
 
+
+
 <a href="https://sju3358.github.io/">
-    <img src="/github.svg" style="height : 32px; wieght : 32px;"/>
+    <img src="https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=#181717&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/sju3358/">
-    <img src="/instagram.svg" style="height : 32px; wieght : 32px; color:pink;"/>
+    <img src="https://img.shields.io/badge/아이콘이름-추천 색상?style=for-the-badge&logo=아이콘 이름&logoColor=white">
 </a>
 
 <a href="mailto:tjdfkr011@gmail.com">
-    <img src="/gmail.svg" style="height : 32px; wieght : 32px;"/>
+    <img src="https://img.shields.io/badge/아이콘이름-추천 색상?style=for-the-badge&logo=아이콘 이름&logoColor=white">
 </a>
  
