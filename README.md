@@ -3,5 +3,5 @@
 
 
 🌱 I’m currently learning  
-  Spring  
-  NoSQL DB  
+  - Spring  
+  - NoSQL DB  
