@@ -15,7 +15,7 @@
 
 
 <a href="https://sju3358.github.io/">
-    <img src="https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=#181717&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/sju3358/">
