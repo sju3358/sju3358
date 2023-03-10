@@ -31,3 +31,5 @@
 ![Mac](https://img.shields.io/badge/Mac-000000?style=for-the-badge&logo=Apple&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)  
 
+###### PS SOLVING  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sju3358)](https://solved.ac/sju3358)
