@@ -10,7 +10,8 @@
     - MySQL
     - JPA
     - MyBatis
-    - Redis   
+    - Redis
+    - QueryDSL
   
 <br/>
 
