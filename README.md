@@ -1,4 +1,6 @@
+### **🤔[More About Me](https://sju3358.notion.site/d22c19717d344764ad15a74bd90a0db0?pvs=4)**
 
+<br/>
 
 # I’m interested in
 
@@ -22,4 +24,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sju3358)](https://solved.ac/sju3358)
 
 
-### [More About Me](https://sju3358.notion.site/d22c19717d344764ad15a74bd90a0db0?pvs=4)
