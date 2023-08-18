@@ -1,11 +1,11 @@
 ### I’m interested in
 ---
-##### Spring Framewrok
+#### Spring Framewrok
     - Spring Boot
     - Spring MVC
     - Spring Data JPA
     - Spring Security   
-##### Basic DB
+#### Basic DB
     - Mongo DB
     - MySQL
     - JPA
