@@ -14,6 +14,7 @@
     - MySQL
     - JPA
     - MyBatis
+    - JPQL
     - QueryDSL  
     
 #### **NoSQL DB**
