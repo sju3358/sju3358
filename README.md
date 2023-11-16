@@ -4,9 +4,10 @@
 #### **Spring Framewrok**
     - Spring Boot
     - Spring MVC
-    - Spring Data JPA
     - Spring Security   
     - Spring WebFlux
+    - Spring Data JPA
+    - Spring Data Mongodb
     
 #### **ORM DB**
     - MariaDB
