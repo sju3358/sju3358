@@ -6,14 +6,18 @@
     - Spring MVC
     - Spring Data JPA
     - Spring Security   
+    - Spring WebFlux
     
-#### **Basic DB**
-    - Mongo DB
+#### **ORM DB**
+    - MariaDB
     - MySQL
     - JPA
     - MyBatis
-    - Redis
     - QueryDSL  
+    
+#### **NoSQL DB**
+    - Mongo DB
+    - Redis
     
 <br/>
 
