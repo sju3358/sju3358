@@ -8,19 +8,18 @@
     - Spring WebFlux
     - Spring Data JPA
     - Spring Data Mongodb
+    - MyBatis / JPQL / JPA / QueryDSL
     
-#### **ORM DB**
-    - MariaDB
+#### **RDB DB**
     - MySQL
-    - JPA
-    - MyBatis
-    - JPQL
-    - QueryDSL  
     
 #### **NoSQL DB**
     - Mongo DB
     - Redis
-    
+#### **Interested In**
+    - MSA, Huge Traffic
+    - TDD / Clean Code / Clean Architecture
+    - RestFul
 <br/>
 
 ### **🤔[More About Me](https://sju3358.github.io/)**
