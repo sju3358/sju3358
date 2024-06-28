@@ -16,7 +16,7 @@
 #### **NoSQL DB**
     - Mongo DB
     - Redis
-#### **Interested In**
+#### **Paradigm**
     - MSA, Huge Traffic
     - TDD / Clean Code / Clean Architecture
     - RestFul
