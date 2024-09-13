@@ -37,7 +37,7 @@
 #### **Paradigm**
     - MSA, EDA
     - TDD
-    - Clean Code / Clean Architecture
+    - Clean Code / Architecture
     - RestFul
 <br/>
 
