@@ -15,16 +15,19 @@
 #### **ORM**
     - MyBatis / JPQL / JPA / QueryDSL  
     
-#### **RDB DB**
-    - MySQL
-    
-    
-#### **NoSQL DB**
-    - Mongo DB
-    - Redis
+#### **DB**
+    **RDB**
+        - MySQL
+    **NOSQL**
+        - Mongo DB
+        - Redis
+    **TSDB**
+        - Prometheus
+        
 #### **Paradigm**
-    - MSA, Huge Traffic
-    - TDD / Clean Code / Clean Architecture
+    - MSA, EDA
+    - TDD
+    - Clean Code / Clean Architecture
     - RestFul
 <br/>
 
