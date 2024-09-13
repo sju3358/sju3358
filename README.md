@@ -2,16 +2,22 @@
 
 
 #### **Spring Framewrok**
+    - Spring Cloud
+    - Spring Batch
+    - Spring Actuator
     - Spring Boot
     - Spring MVC
     - Spring Security   
-    - Spring WebFlux
     - Spring Data JPA
     - Spring Data Mongodb
-    - MyBatis / JPQL / JPA / QueryDSL
+    - Spring Data Redis
+
+#### **ORM**
+    - MyBatis / JPQL / JPA / QueryDSL  
     
 #### **RDB DB**
     - MySQL
+    
     
 #### **NoSQL DB**
     - Mongo DB
