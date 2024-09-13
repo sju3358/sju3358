@@ -11,9 +11,6 @@
     - Spring Data JPA
     - Spring Data Mongodb
     - Spring Data Redis
-
-#### **ORM**
-    - MyBatis / JPQL / JPA / QueryDSL  
     
 #### **DB**
     **RDB**
@@ -23,6 +20,11 @@
         - Redis
     **TSDB**
         - Prometheus
+    **ORM**
+        - MyBatis
+        - JPQL
+        - JPA
+        - QueryDSL  
         
 #### **Paradigm**
     - MSA, EDA
