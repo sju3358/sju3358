@@ -29,7 +29,11 @@
     - JPQL
     - JPA
     - QueryDSL  
-        
+
+#### **Test & Monitoring**
+    - Grafana
+    - K6
+
 #### **Paradigm**
     - MSA, EDA
     - TDD
