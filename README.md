@@ -40,5 +40,3 @@
     - Clean Code / Architecture
     - RestFul
 <br/>
-
-### **🤔[More About Me](https://sju3358.github.io/)**
