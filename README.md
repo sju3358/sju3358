@@ -2,7 +2,6 @@
 
 
 #### **Spring Framewrok**
-    - Spring Cloud Gateway
     - Spring Batch
     - Spring Actuator
     - Spring Boot
